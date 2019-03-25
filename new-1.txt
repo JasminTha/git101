@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 acdb
-=======
-jaf
->>>>>>> b0d4bd9ba6559e88663ceecbb2ed2a8a65aaad06
