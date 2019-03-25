@@ -1,2 +1,6 @@
-gg hi bye
+<<<<<<< HEAD
+gg hi b
+=======
+ggb
+>>>>>>> feature2
 I like you 
